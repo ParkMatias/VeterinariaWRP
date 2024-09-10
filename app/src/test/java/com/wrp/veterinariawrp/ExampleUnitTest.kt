@@ -1,4 +1,4 @@
-package com.wrp.veterinaria
+package com.wrp.veterinariawrp
 
 import org.junit.Test
 

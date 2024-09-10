@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Veterinaria WRP"
 include(":app")
- 

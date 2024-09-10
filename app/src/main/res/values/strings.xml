@@ -1,7 +1,13 @@
 <resources>
     <string name="app_name">Veterinaria WRP</string>
-    <string name="logo">logo</string>
-    <string name="about_us">About Us</string>
-    <string name="contact_us">Contact Us</string>
-    <string name="services">Services</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">WRP Veterinaria</string>
+    <string name="nav_header_subtitle">veterinaria@wrp.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings"></string>
+
+    <string name="menu_home">Sobre Nosotros</string>
+    <string name="menu_gallery">Contacto</string>
+    <string name="menu_slideshow">Servicios</string>
 </resources>
